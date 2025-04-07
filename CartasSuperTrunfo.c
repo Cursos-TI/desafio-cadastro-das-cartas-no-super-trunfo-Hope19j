@@ -2,6 +2,7 @@
 
 
 int main() {
+    printf("Criando as cartas de super trunfo");
     char estado;
     char cod[4];
     char nomeCidade[50];
